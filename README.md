@@ -3,3 +3,7 @@ Meu primeiro projeto:
 
 Sobre o projeto:
 Este é meu projeto para aprender Git
+
+Tecnologias utilizadas:
+- Git
+- Github
