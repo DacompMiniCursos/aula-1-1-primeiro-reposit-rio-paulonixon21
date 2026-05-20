@@ -10,3 +10,4 @@ Tecnologias utilizadas:
 
 Comandos úteis:
 - git status: ver status do repositório
+- git log: ver histórico de commits
