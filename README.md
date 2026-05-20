@@ -7,3 +7,6 @@ Este é meu projeto para aprender Git
 Tecnologias utilizadas:
 - Git
 - Github
+
+Comandos úteis:
+- git status: ver status do repositório
